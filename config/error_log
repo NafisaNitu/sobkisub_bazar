@@ -1,0 +1,124 @@
+[08-Feb-2023 17:37:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[08-Feb-2023 17:37:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[08-Feb-2023 17:37:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[09-Feb-2023 10:15:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[09-Feb-2023 10:15:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[09-Feb-2023 10:15:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[13-Feb-2023 20:11:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[17-Feb-2023 05:20:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[17-Feb-2023 05:20:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[21-Feb-2023 01:10:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[21-Feb-2023 01:27:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[21-Feb-2023 01:27:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[22-Feb-2023 17:43:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[22-Feb-2023 17:43:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[22-Feb-2023 17:43:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[23-Feb-2023 16:00:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[23-Feb-2023 16:00:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[23-Feb-2023 16:01:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[24-Feb-2023 06:31:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[24-Feb-2023 06:31:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[24-Feb-2023 06:31:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[01-Mar-2023 13:56:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[01-Mar-2023 13:56:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[01-Mar-2023 13:56:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[06-Mar-2023 21:45:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[07-Mar-2023 01:41:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[07-Mar-2023 01:41:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[19-Mar-2023 06:46:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[30-Mar-2023 22:24:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[31-Mar-2023 00:18:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
+[31-Mar-2023 00:18:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/sobkisub/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/sobkisub/public_html/config/cache.php on line 20
